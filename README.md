@@ -1,4 +1,5 @@
-# AngularTutorial
+Exploring alternatives to my favourtie React JS, hence looking at Angular JS.
+
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.0.4.
 
